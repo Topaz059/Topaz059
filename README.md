@@ -1,7 +1,10 @@
-Hi! I’m Topaz! 👋
+# 个人简介
+
+Hi! I'm Topaz! 👋
 Just a Year-0 graduate student.
 
-<span style="color: blue;">这里是蓝色文字
+<span style="color: blue;">这里是蓝色文字</span>
+
 
 <!--
 **yaoshi1103/yaoshi1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
