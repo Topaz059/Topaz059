@@ -1,9 +1,6 @@
-# 个人简介
+## Hi! I'm Topaz! 👋
+## Just a Year-0 graduate student.
 
-Hi! I'm Topaz! 👋
-Just a Year-0 graduate student.
-
-<span style="color: blue;">这里是蓝色文字</span>
 
 
 <!--
