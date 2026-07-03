@@ -1,5 +1,5 @@
 # Hi! I'm Topaz! 
-# Just a Year-0 graduate student.
+# Currently a graduate student.
 I'm learning how to use github
 
 
