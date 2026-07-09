@@ -1,6 +1,6 @@
 # Hi! I'm Topaz! 
-# Currently a graduate student.
-I'm learning how to use github
+### Currently a graduate student.
+### I'm learning AI Agent Development
 
 
 
