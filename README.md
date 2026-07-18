@@ -13,4 +13,4 @@
 
 ### :bar_chart: GitHub 数据
 
-![Topaz 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Topaz059&show_icons=true)
+![Topaz 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Topaz059&amp;show_icons=true)
