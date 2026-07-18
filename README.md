@@ -13,4 +13,4 @@
 
 ### :bar_chart: GitHub 数据
 
-<img src="https://github-readme-stats.vercel.app/api?username=Topaz059&show_icons=true" alt="Topaz 的 GitHub 数据" />
+<img src="https://github-stats-extended.vercel.app/api?username=Topaz059&show_icons=true" alt="Topaz 的 GitHub 数据" />
