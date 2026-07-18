@@ -11,6 +11,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](#)
 
+<br clear="all" />
+
 ### :bar_chart: GitHub 数据
 
 <img src="https://github-stats-extended.vercel.app/api?username=Topaz059&show_icons=true" alt="Topaz 的 GitHub 数据" />
